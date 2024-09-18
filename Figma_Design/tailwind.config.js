@@ -10,6 +10,9 @@ export default {
         xl : "1296px",
       },
     },
+    backgroundImage: {
+      'hero-pattern': "url('./Assets/Rectangle 13.svg')",
+    }
   },
   plugins: [],
 }
